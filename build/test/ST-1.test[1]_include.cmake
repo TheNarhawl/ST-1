@@ -1,0 +1,5 @@
+if(EXISTS "D:/SHCODING/ST REPOS/ST-1/build/test/ST-1.test[1]_tests.cmake")
+  include("D:/SHCODING/ST REPOS/ST-1/build/test/ST-1.test[1]_tests.cmake")
+else()
+  add_test(ST-1.test_NOT_BUILT ST-1.test_NOT_BUILT)
+endif()

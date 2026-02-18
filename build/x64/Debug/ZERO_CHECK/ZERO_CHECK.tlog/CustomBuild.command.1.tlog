@@ -1,0 +1,10 @@
+^D:\SHCODING\ST REPOS\ST-1\BUILD\CMAKEFILES\9D22D3AE463AD981B789EECE517DE2C3\GENERATE.STAMP.RULE
+setlocal
+C:\Cmake\bin\cmake.exe "-SD:/SHCODING/ST REPOS/ST-1" "-BD:/SHCODING/ST REPOS/ST-1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/SHCODING/ST REPOS/ST-1/build/ST-1.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
