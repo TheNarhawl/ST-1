@@ -4,6 +4,10 @@ project (ST-1)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -O3 -g")
 
+if(MSVC)
+  string(REPLACE "-Werror" "/WX" CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS}")
+  add_compile_options(/EHsc)
+endif()
 
 enable_testing()
 

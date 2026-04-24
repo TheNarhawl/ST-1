@@ -1,10 +1,10 @@
-Start testing: Feb 18 20:09 RTZ 2 (çèìà)
+Start testing: Apr 24 13:58 RTZ 2 (çèìà)
 ----------------------------------------------------------
 1/10 Testing: checkPrime.BasicPrimes
 1/10 Test: checkPrime.BasicPrimes
 Command: "D:/SHCODING/ST REPOS/ST-1/build/test/Debug/ST-1.test.exe" "--gtest_filter=checkPrime.BasicPrimes" "--gtest_also_run_disabled_tests"
 Directory: D:/SHCODING/ST REPOS/ST-1/build/test
-"checkPrime.BasicPrimes" start time: Feb 18 20:09 RTZ 2 (çèìà)
+"checkPrime.BasicPrimes" start time: Apr 24 13:58 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = checkPrime.BasicPrimes
@@ -22,7 +22,7 @@ Note: Google Test filter = checkPrime.BasicPrimes
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"checkPrime.BasicPrimes" end time: Feb 18 20:09 RTZ 2 (çèìà)
+"checkPrime.BasicPrimes" end time: Apr 24 13:58 RTZ 2 (çèìà)
 "checkPrime.BasicPrimes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -30,7 +30,7 @@ Test Passed.
 2/10 Test: checkPrime.BasicNotPrimes
 Command: "D:/SHCODING/ST REPOS/ST-1/build/test/Debug/ST-1.test.exe" "--gtest_filter=checkPrime.BasicNotPrimes" "--gtest_also_run_disabled_tests"
 Directory: D:/SHCODING/ST REPOS/ST-1/build/test
-"checkPrime.BasicNotPrimes" start time: Feb 18 20:09 RTZ 2 (çèìà)
+"checkPrime.BasicNotPrimes" start time: Apr 24 13:58 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = checkPrime.BasicNotPrimes
@@ -48,7 +48,7 @@ Note: Google Test filter = checkPrime.BasicNotPrimes
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"checkPrime.BasicNotPrimes" end time: Feb 18 20:09 RTZ 2 (çèìà)
+"checkPrime.BasicNotPrimes" end time: Apr 24 13:58 RTZ 2 (çèìà)
 "checkPrime.BasicNotPrimes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -56,7 +56,7 @@ Test Passed.
 3/10 Test: nPrime.FirstPrime
 Command: "D:/SHCODING/ST REPOS/ST-1/build/test/Debug/ST-1.test.exe" "--gtest_filter=nPrime.FirstPrime" "--gtest_also_run_disabled_tests"
 Directory: D:/SHCODING/ST REPOS/ST-1/build/test
-"nPrime.FirstPrime" start time: Feb 18 20:09 RTZ 2 (çèìà)
+"nPrime.FirstPrime" start time: Apr 24 13:58 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = nPrime.FirstPrime
@@ -74,7 +74,7 @@ Note: Google Test filter = nPrime.FirstPrime
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"nPrime.FirstPrime" end time: Feb 18 20:09 RTZ 2 (çèìà)
+"nPrime.FirstPrime" end time: Apr 24 13:58 RTZ 2 (çèìà)
 "nPrime.FirstPrime" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -82,7 +82,7 @@ Test Passed.
 4/10 Test: nPrime.ThirdPrime
 Command: "D:/SHCODING/ST REPOS/ST-1/build/test/Debug/ST-1.test.exe" "--gtest_filter=nPrime.ThirdPrime" "--gtest_also_run_disabled_tests"
 Directory: D:/SHCODING/ST REPOS/ST-1/build/test
-"nPrime.ThirdPrime" start time: Feb 18 20:09 RTZ 2 (çèìà)
+"nPrime.ThirdPrime" start time: Apr 24 13:58 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = nPrime.ThirdPrime
@@ -100,7 +100,7 @@ Note: Google Test filter = nPrime.ThirdPrime
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"nPrime.ThirdPrime" end time: Feb 18 20:09 RTZ 2 (çèìà)
+"nPrime.ThirdPrime" end time: Apr 24 13:58 RTZ 2 (çèìà)
 "nPrime.ThirdPrime" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -108,7 +108,7 @@ Test Passed.
 5/10 Test: nPrime.FifthPrime
 Command: "D:/SHCODING/ST REPOS/ST-1/build/test/Debug/ST-1.test.exe" "--gtest_filter=nPrime.FifthPrime" "--gtest_also_run_disabled_tests"
 Directory: D:/SHCODING/ST REPOS/ST-1/build/test
-"nPrime.FifthPrime" start time: Feb 18 20:09 RTZ 2 (çèìà)
+"nPrime.FifthPrime" start time: Apr 24 13:58 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = nPrime.FifthPrime
@@ -126,7 +126,7 @@ Note: Google Test filter = nPrime.FifthPrime
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"nPrime.FifthPrime" end time: Feb 18 20:09 RTZ 2 (çèìà)
+"nPrime.FifthPrime" end time: Apr 24 13:58 RTZ 2 (çèìà)
 "nPrime.FifthPrime" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -134,7 +134,7 @@ Test Passed.
 6/10 Test: nextPrime.AfterComposite
 Command: "D:/SHCODING/ST REPOS/ST-1/build/test/Debug/ST-1.test.exe" "--gtest_filter=nextPrime.AfterComposite" "--gtest_also_run_disabled_tests"
 Directory: D:/SHCODING/ST REPOS/ST-1/build/test
-"nextPrime.AfterComposite" start time: Feb 18 20:09 RTZ 2 (çèìà)
+"nextPrime.AfterComposite" start time: Apr 24 13:58 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = nextPrime.AfterComposite
@@ -152,7 +152,7 @@ Note: Google Test filter = nextPrime.AfterComposite
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"nextPrime.AfterComposite" end time: Feb 18 20:09 RTZ 2 (çèìà)
+"nextPrime.AfterComposite" end time: Apr 24 13:58 RTZ 2 (çèìà)
 "nextPrime.AfterComposite" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -160,7 +160,7 @@ Test Passed.
 7/10 Test: nextPrime.AfterPrime
 Command: "D:/SHCODING/ST REPOS/ST-1/build/test/Debug/ST-1.test.exe" "--gtest_filter=nextPrime.AfterPrime" "--gtest_also_run_disabled_tests"
 Directory: D:/SHCODING/ST REPOS/ST-1/build/test
-"nextPrime.AfterPrime" start time: Feb 18 20:09 RTZ 2 (çèìà)
+"nextPrime.AfterPrime" start time: Apr 24 13:58 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = nextPrime.AfterPrime
@@ -178,7 +178,7 @@ Note: Google Test filter = nextPrime.AfterPrime
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"nextPrime.AfterPrime" end time: Feb 18 20:09 RTZ 2 (çèìà)
+"nextPrime.AfterPrime" end time: Apr 24 13:58 RTZ 2 (çèìà)
 "nextPrime.AfterPrime" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -186,7 +186,7 @@ Test Passed.
 8/10 Test: sumPrime.LessThanTwo
 Command: "D:/SHCODING/ST REPOS/ST-1/build/test/Debug/ST-1.test.exe" "--gtest_filter=sumPrime.LessThanTwo" "--gtest_also_run_disabled_tests"
 Directory: D:/SHCODING/ST REPOS/ST-1/build/test
-"sumPrime.LessThanTwo" start time: Feb 18 20:09 RTZ 2 (çèìà)
+"sumPrime.LessThanTwo" start time: Apr 24 13:58 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = sumPrime.LessThanTwo
@@ -204,7 +204,7 @@ Note: Google Test filter = sumPrime.LessThanTwo
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"sumPrime.LessThanTwo" end time: Feb 18 20:09 RTZ 2 (çèìà)
+"sumPrime.LessThanTwo" end time: Apr 24 13:58 RTZ 2 (çèìà)
 "sumPrime.LessThanTwo" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -212,7 +212,7 @@ Test Passed.
 9/10 Test: sumPrime.UpToTen
 Command: "D:/SHCODING/ST REPOS/ST-1/build/test/Debug/ST-1.test.exe" "--gtest_filter=sumPrime.UpToTen" "--gtest_also_run_disabled_tests"
 Directory: D:/SHCODING/ST REPOS/ST-1/build/test
-"sumPrime.UpToTen" start time: Feb 18 20:09 RTZ 2 (çèìà)
+"sumPrime.UpToTen" start time: Apr 24 13:58 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = sumPrime.UpToTen
@@ -230,7 +230,7 @@ Note: Google Test filter = sumPrime.UpToTen
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"sumPrime.UpToTen" end time: Feb 18 20:09 RTZ 2 (çèìà)
+"sumPrime.UpToTen" end time: Apr 24 13:58 RTZ 2 (çèìà)
 "sumPrime.UpToTen" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -238,7 +238,7 @@ Test Passed.
 10/10 Test: sumPrime.UpToTwenty
 Command: "D:/SHCODING/ST REPOS/ST-1/build/test/Debug/ST-1.test.exe" "--gtest_filter=sumPrime.UpToTwenty" "--gtest_also_run_disabled_tests"
 Directory: D:/SHCODING/ST REPOS/ST-1/build/test
-"sumPrime.UpToTwenty" start time: Feb 18 20:09 RTZ 2 (çèìà)
+"sumPrime.UpToTwenty" start time: Apr 24 13:58 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Note: Google Test filter = sumPrime.UpToTwenty
@@ -256,8 +256,8 @@ Note: Google Test filter = sumPrime.UpToTwenty
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"sumPrime.UpToTwenty" end time: Feb 18 20:09 RTZ 2 (çèìà)
+"sumPrime.UpToTwenty" end time: Apr 24 13:58 RTZ 2 (çèìà)
 "sumPrime.UpToTwenty" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Feb 18 20:09 RTZ 2 (çèìà)
+End testing: Apr 24 13:58 RTZ 2 (çèìà)

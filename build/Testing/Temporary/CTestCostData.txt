@@ -1,11 +1,11 @@
-checkPrime.BasicPrimes 1 0.0092225
-checkPrime.BasicNotPrimes 1 0.0090981
-nPrime.FirstPrime 1 0.0094792
-nPrime.ThirdPrime 1 0.0099081
-nPrime.FifthPrime 1 0.0097312
-nextPrime.AfterComposite 1 0.0115914
-nextPrime.AfterPrime 1 0.00947
-sumPrime.LessThanTwo 1 0.0092161
-sumPrime.UpToTen 1 0.0095864
-sumPrime.UpToTwenty 1 0.0100436
+checkPrime.BasicPrimes 2 0.00624225
+checkPrime.BasicNotPrimes 2 0.00489995
+nPrime.FirstPrime 2 0.0054084
+nPrime.ThirdPrime 2 0.00517275
+nPrime.FifthPrime 2 0.0050857
+nextPrime.AfterComposite 2 0.00488805
+nextPrime.AfterPrime 2 0.0051389
+sumPrime.LessThanTwo 2 0.00525625
+sumPrime.UpToTen 2 0.00547645
+sumPrime.UpToTwenty 2 0.00481455
 ---
